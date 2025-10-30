@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
-![typing-gif]([https://media.giphy.com/media/L1R1tvI9svkIWoLeb5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThremJjeXdocHlqb3hxNWZkNGM5Zmh4cmsxN2JjY2k5c3JhaDlpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g88xUM1rTwjfLhoRYP/giphy.gif))
+![my-gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThremJjeXdocHlqb3hxNWZkNGM5Zmh4cmsxN2JjY2k5c3JhaDlpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g88xUM1rTwjfLhoRYP/giphy.gif)
 
 ---
 
