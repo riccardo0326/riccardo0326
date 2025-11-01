@@ -56,6 +56,7 @@ When I'm not debugging code, you'll find me:
 I manage social media content and share my creative journey. Come vibe with me:
 
 - **TikTok 40k+:** [@urbexxer](https://www.tiktok.com/@urbexxer)
+- **Youtube:** [@Riccardo Palazzi](https://www.youtube.com/@riccardo0326)
 
 ---
 
