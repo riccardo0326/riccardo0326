@@ -32,14 +32,14 @@ Currently expanding my tech arsenal while juggling courseworks :)
 
 ## 🎯 What I'm Working On
 
-### ETL Pipeline Project (Singer)
-Building a data pipeline using Singer that would make data engineers proud.
+### ETL Pipeline Project (DataBridge)
+Building a data pipeline using python that would make data engineers proud.
 
 ---
 
 ## 💼 Internship Experience
 
-Currently having an internship at **Applied Computational Logic and Artificial Intelligence (ACLAI) Laboratory** of the Department of Mathematics and Computer Science, University of Ferrara.
+Internship at **Applied Computational Logic and Artificial Intelligence (ACLAI) Laboratory** of the Department of Mathematics and Computer Science, University of Ferrara.
 
 ---
 
@@ -49,11 +49,11 @@ When I'm not debugging code, you'll find me:
 
 - **📹 Videography** 
 - **📸 Photography** 
-- **⛰️ Mountaineering & Outdoors** — Where there's no WiFi
+- **⛰️ Mountaineering & Outdoors** 
 
 ### 🎵 Social Media
 
-I manage social media content and share my creative journey. Come vibe with me:
+I manage social media content and share my creative journey:
 
 - **TikTok 40k+:** [@urbexxer](https://www.tiktok.com/@urbexxer)
 - **Youtube:** [@Riccardo Palazzi](https://www.youtube.com/@riccardo0326)
@@ -63,12 +63,6 @@ I manage social media content and share my creative journey. Come vibe with me:
 ## 📊 GitHub Stats (The Honest Edition)
 
 I'm working on making this section less embarrassing, one commit at a time. Currently in *preparation mode*, but soon you'll see my repositories flourish with projects that'll make you say "oh, that's actually pretty cool!"
-
----
-
-## 🎓 The Goal
-
-Finish my CS degree while building a portfolio that doesn't look like it was made by someone who only knows `console.log("hello")`. So far, so good! 🚀
 
 ---
 
