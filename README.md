@@ -9,7 +9,7 @@
       <td width="50%" valign="top">
         <h2>🚀 About Me</h2>
         <p><strong>Computer Science graduate at Università di Ferrara</strong> </p>
-        <p><strong>Hardware and Windows nerd</strong> trying to level up my software and coding skills.</p>
+        <p><strong>Hardware and Windows nerd</strong> trying to level up my coding skills.</p>
       </td>
     </tr>
   </table>
