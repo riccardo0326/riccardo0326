@@ -20,19 +20,19 @@
 ## 🎯 What I'm Working On
 
 ### Euphor-ia
-Working on scalable B2B SaaS / IaaS with Low-Code developing using AI based coding.
+Working on scalable B2B SaaS / IaaS software Engineering and Developing.
 
 ---
 
 ## 💼 Working Experience
 
-Currently working @**Automobili Lamborghini** as a diagnostic software dev.
+Currently working @**Automobili Lamborghini** as a Diagnostic Software Developer.
 
 ---
 
 ### 🎵 Social Media
 
-I manage social media content and share my creative journey:
+I manage social media content too:
 
 - **TikTok 40k+:** [@urbexxer](https://www.tiktok.com/@urbexxer)
 - **Youtube:** [@Riccardo Palazzi](https://www.youtube.com/@riccardo0326)
